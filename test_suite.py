@@ -35,7 +35,7 @@ def run_chrome(url):
 
 def main():
     print("=" * 70)
-    print("   E-COMMERCE REVERSE ENGINEERING COMPREHENSIVE VERIFICATION SUITE")
+    print("   ORGANIC FOOD E-COMMERCE COMPREHENSIVE VERIFICATION SUITE")
     print("=" * 70)
 
     # 1. FILE INTEGRITY ASSERTIONS
