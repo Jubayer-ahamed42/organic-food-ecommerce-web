@@ -1,0 +1,1 @@
+.wd-btn-arrow.wd-lock,.wd-carousel:not(.wd-initialized)~.wd-nav-arrows .wd-btn-arrow{opacity:0 !important;pointer-events:none !important}@media(min-width: 1025px){.wd-nav-arrows[class*=wd-hover].wd-pos-sep .wd-btn-arrow{opacity:0;pointer-events:none}}

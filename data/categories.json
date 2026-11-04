@@ -1,0 +1,58 @@
+[
+  {
+    "id": 21,
+    "name": "খেজুর",
+    "slug": "dates",
+    "count": 2,
+    "image": "assets/images/Dates.webp"
+  },
+  {
+    "id": 19,
+    "name": "ঘি",
+    "slug": "ghee",
+    "count": 9,
+    "image": "assets/images/Ghee.webp"
+  },
+  {
+    "id": 20,
+    "name": "তেল",
+    "slug": "oil",
+    "count": 8,
+    "image": "assets/images/Oil.webp"
+  },
+  {
+    "id": 23,
+    "name": "বাদাম",
+    "slug": "nuts",
+    "count": 3,
+    "image": "assets/images/Nuts.webp"
+  },
+  {
+    "id": 24,
+    "name": "ভেষজ",
+    "slug": "herbs",
+    "count": 3,
+    "image": "assets/images/Herbs.webp"
+  },
+  {
+    "id": 15,
+    "name": "মধু",
+    "slug": "honey",
+    "count": 2,
+    "image": "assets/images/Honey.webp"
+  },
+  {
+    "id": 22,
+    "name": "মসলা",
+    "slug": "spices",
+    "count": 1,
+    "image": "assets/images/Spices.webp"
+  },
+  {
+    "id": 25,
+    "name": "সুস্থতা",
+    "slug": "wellness",
+    "count": 1,
+    "image": "assets/images/Wellness.webp"
+  }
+]

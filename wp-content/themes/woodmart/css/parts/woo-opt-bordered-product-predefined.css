@@ -1,0 +1,1 @@
+.products-bordered-grid:where(.wd-loop-builder-off).elements-grid>.wd-col{padding:calc(var(--wd-gap)/2)}.products-bordered-grid:not(.wd-loop-builder-on).wd-carousel-container .product{padding:calc(var(--wd-gap)/2)}

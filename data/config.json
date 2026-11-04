@@ -1,0 +1,53 @@
+{
+  "site_name": "অর্গানিক ফুড",
+  "tagline": "প্রকৃতির বিশুদ্ধতা, সুস্থতার নিশ্চয়তা",
+  "phone": "01911125266",
+  "phone_display": "Call: 01911125266",
+  "whatsapp": "8801911125266",
+  "whatsapp_url": "https://wa.me/8801911125266",
+  "email": "support@itservicelab.com",
+  "address": "ঢাকা, বাংলাদেশ",
+  "currency": "৳",
+  "delivery_inside_dhaka": 80,
+  "delivery_outside_dhaka": 150,
+  "hero_sliders": [
+    {
+      "image": "assets/images/bd1.webp",
+      "title": "১০০% খাঁটি ও বিশুদ্ধ অর্গানিক খাদ্যপণ্য",
+      "subtitle": "আপনার এবং আপনার পরিবারের সুস্থতার জন্য প্রাকৃতিক খাবার"
+    },
+    {
+      "image": "assets/images/BD2.webp",
+      "title": "সেরা মানের পণ্য, দ্রুততম হোম ডেলিভারি",
+      "subtitle": "সারা দেশে ক্যাশ অন ডেলিভারি সুবিধা"
+    }
+  ],
+  "features": [
+    {
+      "icon": "assets/images/1o.webp",
+      "title": "অর্গানিক পণ্য",
+      "desc": "১০০% খাঁটি ও প্রাকৃতিক উপাদান"
+    },
+    {
+      "icon": "assets/images/2s.webp",
+      "title": "দ্রুত ডেলিভারি",
+      "desc": "সারা দেশে দ্রুত হোম ডেলিভারি"
+    },
+    {
+      "icon": "assets/images/3s.webp",
+      "title": "নিরাপদ পেমেন্ট",
+      "desc": "ক্যাশ অন ডেলিভারি ও অনলাইন পেমেন্ট"
+    },
+    {
+      "icon": "assets/images/4d.webp",
+      "title": "সহজ সাপোর্ট",
+      "desc": "২৪/৭ কাস্টমার সাপোর্ট সার্ভিস"
+    }
+  ],
+  "social_links": {
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "youtube": "https://youtube.com",
+    "instagram": "https://instagram.com"
+  }
+}

@@ -1,0 +1,1 @@
+.wd-wc-notices .woocommerce-notices-wrapper{display:flex;flex-direction:column;gap:20px}.wd-wc-notices .woocommerce-notices-wrapper>*{margin-bottom:0}.wd-wc-notices:has(.woocommerce-notices-wrapper:empty){display:none}
