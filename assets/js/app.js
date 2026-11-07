@@ -2,7 +2,7 @@
  * ORGANIC FOOD E-COMMERCE - CORE APPLICATION JAVASCRIPT
  * Target: https://demo11.itservicelab.com/
  * Features: Product rendering, Hero Slider, Live Search, Cart State, 
- *           Direct 1-Click Checkout, Quick View Modal, Toast notifications.
+ * Direct 1-Click Checkout, Quick View Modal, Toast notifications.
  */
 
 (function () {
@@ -153,7 +153,7 @@
             <a href="javascript:void(0)" onclick="window.openQuickView(${p.id})">${p.name}</a>
           </h3>
           <div class="product-rating">
-            <span>★★★★★</span>
+            <span>*****</span>
             <span class="rating-count">(${p.review_count || 12})</span>
           </div>
           <div class="product-price-box">
